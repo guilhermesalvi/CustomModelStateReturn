@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomModelStateReturn", "CustomModelStateReturn\CustomModelStateReturn.csproj", "{393ACC8C-5C35-422B-BDE9-A913A5F59D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393ACC8C-5C35-422B-BDE9-A913A5F59D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393ACC8C-5C35-422B-BDE9-A913A5F59D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393ACC8C-5C35-422B-BDE9-A913A5F59D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393ACC8C-5C35-422B-BDE9-A913A5F59D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E99E87-1492-4B7A-9487-7049D939C717}
+	EndGlobalSection
+EndGlobal
